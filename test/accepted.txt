@@ -1,0 +1,4 @@
+x = 10 ;
+if y < 20 then x = y + 1 ; else x = y - 1 ;
+while counter > 0 do { counter = counter - 1 ; x = x * 2 ; }
+result = ( a + b ) * 5 / 2 ;
